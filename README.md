@@ -6,4 +6,4 @@
 
 # Blog
 
-  Read my blog post on [Medium](https://hrfprofessional.medium.com/my-journey-with-spring-boot-from-tutorial-to-code-implementation-4b0aa9dcf889).
+  *Read my blog post on [Medium](https://hrfprofessional.medium.com/my-journey-with-spring-boot-from-tutorial-to-code-implementation-4b0aa9dcf889).*

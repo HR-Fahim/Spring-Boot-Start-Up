@@ -1,7 +1,14 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\demo",
+    "\\demo\\src",
+    "\\demo\\src\\main",
+    "\\demo\\src\\main\\java",
+    "\\demo\\src\\main\\java\\com",
+    "\\demo\\src\\main\\java\\com\\example",
+    "\\demo\\src\\main\\java\\com\\example\\springboot"
   ],
-  "SelectedNode": "\\C:\\Users\\Asus\\Desktop\\Spring Boot\\Git\\Spring-Boot-Start-Up",
+  "SelectedNode": "\\README.md",
   "PreviewInSolutionExplorer": false
 }
