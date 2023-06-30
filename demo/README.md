@@ -1,3 +1,1 @@
-# Test Tutorial from https://spring.io/guides/gs/spring-boot/
-
-# Runnable
+# Test Tutorial from [Building an Application with Spring Boot](https://spring.io/guides/gs/spring-boot/)
